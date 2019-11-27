@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1574887448 source:c:\users\georgeg\desktop\poo2\poo2\main.cpp
+	<iostream>
+	"Nod.h"
+	"Arbore.h"
+	"Arbore_oarecare.h"
+	"Arbore_binar.h"
+
+1574889887 c:\users\georgeg\desktop\poo2\poo2\include\nod.h
+	<iostream>
+
+1574886288 c:\users\georgeg\desktop\poo2\poo2\include\arbore.h
+	"Nod.h"
+
+1574889783 source:c:\users\georgeg\desktop\poo2\poo2\src\arbore.cpp
+	"Arbore.h"
+
+1574890101 source:c:\users\georgeg\desktop\poo2\poo2\src\arbore_oarecare.cpp
+	"Arbore_oarecare.h"
+
+1574889887 c:\users\georgeg\desktop\poo2\poo2\include\arbore_oarecare.h
+	"Arbore.h"
+	<queue>
+
+1574889751 source:c:\users\georgeg\desktop\poo2\poo2\src\nod.cpp
+	<iostream>
+	"Nod.h"
+
+1574890101 source:c:\users\georgeg\desktop\poo2\poo2\src\arbore_binar.cpp
+	"Arbore_binar.h"
+
+1574889554 c:\users\georgeg\desktop\poo2\poo2\include\arbore_binar.h
+	"Arbore_oarecare.h"
+
